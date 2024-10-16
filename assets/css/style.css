@@ -1882,7 +1882,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 /* //aditional */
 /* Modal styles */
-.modal {
+.modal2 {
   display: none;
   position: fixed;
   z-index: 1;
@@ -1893,7 +1893,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.modal-content {
+.modal-content2 {
   background-color: white;
   margin: auto;
   padding: 20px;
